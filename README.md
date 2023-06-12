@@ -10,6 +10,10 @@ e nos videos:
 https://www.youtube.com/watch?v=zzugiINb3Zo
 https://www.youtube.com/watch?v=d2ouG1VmD88 (esse em indonésio)
 
+no pdf
+https://drive.google.com/file/d/1-m1Mom41RZn2TwUtbIGZe0G4fIGFuL4Q/view
+
+
 
 2017-08-16
 Update: <br>
@@ -81,6 +85,18 @@ If you need to switch back to the traditional HDMI display<br>
 
 Wait a few minutes,the system will restart automaticall , enjoy with your LCD.
 -------------------------------------------------------------------------------
+
+tela similar com sourcecode e bem documentado
+https://github.com/INNO-MAKER/3.5inchlcd-c
+
+tópicos interessantes sobre essa tela
+http://www.lcdwiki.com/3.5inch_RPi_Display
+https://github.com/juj/fbcp-ili9341
+https://discussion.fedoraproject.org/t/raspberry-pi-3-5-lcd-mpi3501/72322/6
+https://hub.libre.computer/t/aml-s905x-cc-le-potato-480x320-ili9486-spi-touchscreen-display/183
+https://community.volumio.org/t/volumio-with-3-5-tft-touch-screen-gpio-rpi-3b/11265
+
+
 <br><br>
 
 
