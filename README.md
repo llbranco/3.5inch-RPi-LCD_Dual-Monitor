@@ -1,5 +1,16 @@
 LCD driver for the Raspberry PI Installation<br>
 ====================================================
+
+Ainda em criação, ainda não está pronto pra uso
+
+Baseado no projeto
+https://github.com/goodtft/
+
+e nos videos:
+https://www.youtube.com/watch?v=zzugiINb3Zo
+https://www.youtube.com/watch?v=d2ouG1VmD88 (esse em indonésio)
+
+
 2017-08-16
 Update: <br>
   v1.6-20170824<br>
@@ -30,7 +41,7 @@ And Ensure that the raspberry pi is connected to the Internet before executing t
 -----------------------------------------------------------------------------------------------------
 
 ```sudo rm -rf LCD-show```<br>
-```git clone https://github.com/goodtft/LCD-show.git```<br>
+```git clone https://github.com/llbranco/3.5inch-RPi-LCD_Dual-Monitor/LCD-show.git```<br>
 ```chmod -R 755 LCD-show```<br>
 ```cd LCD-show/```<br>
   
